@@ -1,1 +1,1 @@
-# Bug_reports
+## Bug reports [click here](https://github.com/LiubovBoss/Bug_reports/blob/main/Bug%20reports.pdf)
